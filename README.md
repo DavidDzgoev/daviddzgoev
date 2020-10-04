@@ -4,7 +4,7 @@
 ![py](https://img.shields.io/badge/-Python-ffffff?style=for-the-badge&logo=python)
 ![sql](https://img.shields.io/badge/-SQL-ffffff?style=for-the-badge&logo=SQLite&logoColor=002137)
 ![tf](https://img.shields.io/badge/-Tensorflow-ffffff?style=for-the-badge&logo=tensorflow&logoColor=ff9900)
-![sk](https://img.shields.io/badge/-Scikitlearn-ffffff?style=for-the-badge&logo=scikitlearn&logoColor=08457e)
+![sk](https://img.shields.io/badge/-Scikitlearn-ffffff?style=for-the-badge&logo=scikit-learn&logoColor=08457e)
 ## Contants
 [![hh](https://img.shields.io/badge/-hh-ffffff?style=flat&logo=)](https://hh.ru/resume/a6b1b5fbff084a07b70039ed1f446751395854)
 [![in](https://img.shields.io/badge/-LinkedIn-ffffff?style=flat&logo=LinkedIn&logoColor=47C5FB)](https://www.linkedin.com/in/david-dzgoev-42a5661b6/)
