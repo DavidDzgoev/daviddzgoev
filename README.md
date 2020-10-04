@@ -1,5 +1,5 @@
 ### Hi there 👋
-![hippo](https://media1.tenor.com/images/b08ea2edeb1bacff183418e57eb4dec4/tenor.gif?itemid=13461151)
+![ferrari](http://www.thomas5000.hu/pilot_2014/ferrari_14.png)
 <!--
 **DavidDzgoev/daviddzgoev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
