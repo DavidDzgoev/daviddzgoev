@@ -2,5 +2,5 @@
 
 ### Student from Russia
 -------------------------
-![hh](https://img.shield.io/badge/-hh-090909)
+![hh](https://img.shields.io/badge/-hh-090909)
 
