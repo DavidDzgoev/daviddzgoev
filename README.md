@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Header](http://winallos.com/uploads/posts/2014-12/1418175711_formula-1-ferrari-race-car-f138.jpg)
+![Header](http://www.thomas5000.hu/pilot_2014/ferrari_14.png)
 <!--
 **DavidDzgoev/daviddzgoev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
