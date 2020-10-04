@@ -1,5 +1,5 @@
 ### Hi there 👋
-![hippo](https://media.tenor.com/images/94a3ef162f896120837ff706ef79c11b/tenor.gif)
+![hippo](https://media1.tenor.com/images/b08ea2edeb1bacff183418e57eb4dec4/tenor.gif?itemid=13461151)
 <!--
 **DavidDzgoev/daviddzgoev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
