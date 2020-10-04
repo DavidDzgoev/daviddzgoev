@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Header](https://i.gifer.com/6Nx.gif)
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 <!--
 **DavidDzgoev/daviddzgoev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
