@@ -2,4 +2,4 @@
 
 ### Student from Russia
 -------------------------
-![https://hh.ru/resume/a6b1b5fbff084a07b70039ed1f446751395854](https://static.tildacdn.com/tild3839-3834-4630-b931-336461303739/HH.jpg)
+![![hh](https://static.tildacdn.com/tild3839-3834-4630-b931-336461303739/HH.jpg)](https://hh.ru/resume/a6b1b5fbff084a07b70039ed1f446751395854)
