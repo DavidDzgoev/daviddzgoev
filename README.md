@@ -2,5 +2,5 @@
 
 ### Student from Russia
 -------------------------
-[![hh](https://img.shield.io/badge/-hh)](https://hh.ru/resume/a6b1b5fbff084a07b70039ed1f446751395854)
+![hh](https://img.shield.io/badge/-hh)
 
