@@ -1,7 +1,7 @@
 ![ferrari](http://www.thomas5000.hu/pilot_2014/ferrari_14.png)
 
 ## Languages and skills
-[![py](https://img.shields.io/badge/-Python?style=for-the-badge&logo=python)]
+![py](https://img.shields.io/badge/-Python-ffffff?style=for-the-badge&logo=python)
 ## Contants
 [![hh](https://img.shields.io/badge/-hh-ffffff?style=flat&logo=)](https://hh.ru/resume/a6b1b5fbff084a07b70039ed1f446751395854)
 [![in](https://img.shields.io/badge/-LinkedIn-ffffff?style=flat&logo=LinkedIn&logoColor=47C5FB)](https://www.linkedin.com/in/david-dzgoev-42a5661b6/)
