@@ -3,7 +3,7 @@
 ## Languages and skills
 ![py](https://img.shields.io/badge/-Python-ffffff?style=for-the-badge&logo=python)
 ![sql](https://img.shields.io/badge/-SQL-ffffff?style=for-the-badge&logo=SQLite&logoColor=002137)
-![tf](https://img.shields.io/badge/-Tensorflow-ffffff?style=for-the-badge&logo=tensorflow&logoColor=ff9900)
+![tf](https://img.shields.io/badge/-Tensorflow-ffffff?style=for-the-badge&logo=#F7931E&logoColor=ff9900)
 ![sk](https://img.shields.io/badge/-Scikitlearn-ffffff?style=for-the-badge&logo=scikit&logoColor=08457e)
 ## Contants
 [![hh](https://img.shields.io/badge/-hh-ffffff?style=flat&logo=)](https://hh.ru/resume/a6b1b5fbff084a07b70039ed1f446751395854)
