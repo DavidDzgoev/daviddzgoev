@@ -1,5 +1,3 @@
-![ferrari](http://www.thomas5000.hu/pilot_2014/ferrari_14.png)
-
 ## Languages and skills
 ![py](https://img.shields.io/badge/-Python-ffffff?style=for-the-badge&logo=python)
 ![sql](https://img.shields.io/badge/-SQL-ffffff?style=for-the-badge&logo=SQLite&logoColor=002137)
